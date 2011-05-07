@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spelling Words</string>
+    <string name="txtSpellingListDate">For 04/08/2011</string>
+    <string name="txtEditHint">Spell Word Here</string>
+    <string name="txtSubmitButton">Submit</string>
+    
+</resources>
